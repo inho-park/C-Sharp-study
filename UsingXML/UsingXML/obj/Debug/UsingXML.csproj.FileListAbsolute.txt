@@ -1,0 +1,10 @@
+C:\Users\SIC\source\repos\UsingXML\UsingXML\obj\Debug\UsingXML.csproj.AssemblyReference.cache
+C:\Users\SIC\source\repos\UsingXML\UsingXML\obj\Debug\UsingXML.Properties.Resources.resources
+C:\Users\SIC\source\repos\UsingXML\UsingXML\obj\Debug\UsingXML.csproj.GenerateResource.cache
+C:\Users\SIC\source\repos\UsingXML\UsingXML\obj\Debug\UsingXML.csproj.CoreCompileInputs.cache
+C:\Users\SIC\source\repos\UsingXML\UsingXML\bin\Debug\UsingXML.exe.config
+C:\Users\SIC\source\repos\UsingXML\UsingXML\bin\Debug\UsingXML.exe
+C:\Users\SIC\source\repos\UsingXML\UsingXML\bin\Debug\UsingXML.pdb
+C:\Users\SIC\source\repos\UsingXML\UsingXML\obj\Debug\UsingXML.exe
+C:\Users\SIC\source\repos\UsingXML\UsingXML\obj\Debug\UsingXML.pdb
+C:\Users\SIC\source\repos\UsingXML\UsingXML\obj\Debug\UsingXML.Form1.resources

@@ -1,0 +1,10 @@
+C:\Users\SIC\source\repos\PartialAndEncapEx\PartialAndEncapEx\bin\Debug\PartialAndEncapEx.exe.config
+C:\Users\SIC\source\repos\PartialAndEncapEx\PartialAndEncapEx\bin\Debug\PartialAndEncapEx.exe
+C:\Users\SIC\source\repos\PartialAndEncapEx\PartialAndEncapEx\bin\Debug\PartialAndEncapEx.pdb
+C:\Users\SIC\source\repos\PartialAndEncapEx\PartialAndEncapEx\obj\Debug\PartialAndEncapEx.csproj.AssemblyReference.cache
+C:\Users\SIC\source\repos\PartialAndEncapEx\PartialAndEncapEx\obj\Debug\PartialAndEncapEx.Form1.resources
+C:\Users\SIC\source\repos\PartialAndEncapEx\PartialAndEncapEx\obj\Debug\PartialAndEncapEx.Properties.Resources.resources
+C:\Users\SIC\source\repos\PartialAndEncapEx\PartialAndEncapEx\obj\Debug\PartialAndEncapEx.csproj.GenerateResource.cache
+C:\Users\SIC\source\repos\PartialAndEncapEx\PartialAndEncapEx\obj\Debug\PartialAndEncapEx.csproj.CoreCompileInputs.cache
+C:\Users\SIC\source\repos\PartialAndEncapEx\PartialAndEncapEx\obj\Debug\PartialAndEncapEx.exe
+C:\Users\SIC\source\repos\PartialAndEncapEx\PartialAndEncapEx\obj\Debug\PartialAndEncapEx.pdb

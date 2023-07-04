@@ -1,0 +1,10 @@
+C:\Users\SIC\source\repos\StreamRW\StreamRW\bin\Debug\StreamRW.exe.config
+C:\Users\SIC\source\repos\StreamRW\StreamRW\bin\Debug\StreamRW.exe
+C:\Users\SIC\source\repos\StreamRW\StreamRW\bin\Debug\StreamRW.pdb
+C:\Users\SIC\source\repos\StreamRW\StreamRW\obj\Debug\StreamRW.csproj.AssemblyReference.cache
+C:\Users\SIC\source\repos\StreamRW\StreamRW\obj\Debug\StreamRW.Form1.resources
+C:\Users\SIC\source\repos\StreamRW\StreamRW\obj\Debug\StreamRW.Properties.Resources.resources
+C:\Users\SIC\source\repos\StreamRW\StreamRW\obj\Debug\StreamRW.csproj.GenerateResource.cache
+C:\Users\SIC\source\repos\StreamRW\StreamRW\obj\Debug\StreamRW.csproj.CoreCompileInputs.cache
+C:\Users\SIC\source\repos\StreamRW\StreamRW\obj\Debug\StreamRW.exe
+C:\Users\SIC\source\repos\StreamRW\StreamRW\obj\Debug\StreamRW.pdb

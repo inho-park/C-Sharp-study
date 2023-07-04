@@ -1,0 +1,10 @@
+C:\Users\SIC\source\repos\ClassEx\ClassEx\bin\Debug\ClassEx.exe.config
+C:\Users\SIC\source\repos\ClassEx\ClassEx\bin\Debug\ClassEx.exe
+C:\Users\SIC\source\repos\ClassEx\ClassEx\bin\Debug\ClassEx.pdb
+C:\Users\SIC\source\repos\ClassEx\ClassEx\obj\Debug\ClassEx.csproj.AssemblyReference.cache
+C:\Users\SIC\source\repos\ClassEx\ClassEx\obj\Debug\ClassEx.Form1.resources
+C:\Users\SIC\source\repos\ClassEx\ClassEx\obj\Debug\ClassEx.Properties.Resources.resources
+C:\Users\SIC\source\repos\ClassEx\ClassEx\obj\Debug\ClassEx.csproj.GenerateResource.cache
+C:\Users\SIC\source\repos\ClassEx\ClassEx\obj\Debug\ClassEx.csproj.CoreCompileInputs.cache
+C:\Users\SIC\source\repos\ClassEx\ClassEx\obj\Debug\ClassEx.exe
+C:\Users\SIC\source\repos\ClassEx\ClassEx\obj\Debug\ClassEx.pdb

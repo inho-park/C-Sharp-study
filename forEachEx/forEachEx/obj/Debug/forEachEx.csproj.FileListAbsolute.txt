@@ -1,0 +1,10 @@
+C:\Users\SIC\source\repos\forEachEx\forEachEx\bin\Debug\forEachEx.exe.config
+C:\Users\SIC\source\repos\forEachEx\forEachEx\bin\Debug\forEachEx.exe
+C:\Users\SIC\source\repos\forEachEx\forEachEx\bin\Debug\forEachEx.pdb
+C:\Users\SIC\source\repos\forEachEx\forEachEx\obj\Debug\forEachEx.csproj.AssemblyReference.cache
+C:\Users\SIC\source\repos\forEachEx\forEachEx\obj\Debug\forEachEx.Form1.resources
+C:\Users\SIC\source\repos\forEachEx\forEachEx\obj\Debug\forEachEx.Properties.Resources.resources
+C:\Users\SIC\source\repos\forEachEx\forEachEx\obj\Debug\forEachEx.csproj.GenerateResource.cache
+C:\Users\SIC\source\repos\forEachEx\forEachEx\obj\Debug\forEachEx.csproj.CoreCompileInputs.cache
+C:\Users\SIC\source\repos\forEachEx\forEachEx\obj\Debug\forEachEx.exe
+C:\Users\SIC\source\repos\forEachEx\forEachEx\obj\Debug\forEachEx.pdb

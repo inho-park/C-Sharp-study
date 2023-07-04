@@ -1,0 +1,11 @@
+c:\users\사용자\source\repos\26 Thread\26 Thread\bin\Debug\26 Thread.exe.config
+c:\users\사용자\source\repos\26 Thread\26 Thread\bin\Debug\26 Thread.exe
+c:\users\사용자\source\repos\26 Thread\26 Thread\bin\Debug\26 Thread.pdb
+c:\users\사용자\source\repos\26 Thread\26 Thread\obj\Debug\26 Thread.csprojResolveAssemblyReference.cache
+c:\users\사용자\source\repos\26 Thread\26 Thread\obj\Debug\_26_Thread.Form1.resources
+c:\users\사용자\source\repos\26 Thread\26 Thread\obj\Debug\_26_Thread.Properties.Resources.resources
+c:\users\사용자\source\repos\26 Thread\26 Thread\obj\Debug\26 Thread.csproj.GenerateResource.Cache
+c:\users\사용자\source\repos\26 Thread\26 Thread\obj\Debug\26 Thread.csproj.CoreCompileInputs.cache
+c:\users\사용자\source\repos\26 Thread\26 Thread\obj\Debug\26 Thread.exe
+c:\users\사용자\source\repos\26 Thread\26 Thread\obj\Debug\26 Thread.pdb
+c:\users\사용자\source\repos\26 Thread\26 Thread\obj\Debug\_26_Thread.Play.resources

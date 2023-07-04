@@ -1,0 +1,10 @@
+C:\Users\SIC\source\repos\SImpleClicker\SImpleClicker\bin\Debug\SImpleClicker.exe.config
+C:\Users\SIC\source\repos\SImpleClicker\SImpleClicker\bin\Debug\SImpleClicker.exe
+C:\Users\SIC\source\repos\SImpleClicker\SImpleClicker\bin\Debug\SImpleClicker.pdb
+C:\Users\SIC\source\repos\SImpleClicker\SImpleClicker\obj\Debug\SImpleClicker.csproj.AssemblyReference.cache
+C:\Users\SIC\source\repos\SImpleClicker\SImpleClicker\obj\Debug\SImpleClicker.Form1.resources
+C:\Users\SIC\source\repos\SImpleClicker\SImpleClicker\obj\Debug\SImpleClicker.Properties.Resources.resources
+C:\Users\SIC\source\repos\SImpleClicker\SImpleClicker\obj\Debug\SImpleClicker.csproj.GenerateResource.cache
+C:\Users\SIC\source\repos\SImpleClicker\SImpleClicker\obj\Debug\SImpleClicker.csproj.CoreCompileInputs.cache
+C:\Users\SIC\source\repos\SImpleClicker\SImpleClicker\obj\Debug\SImpleClicker.exe
+C:\Users\SIC\source\repos\SImpleClicker\SImpleClicker\obj\Debug\SImpleClicker.pdb
