@@ -1,0 +1,11 @@
+C:\Users\SIC\source\repos\CallBackEx\CallBackEx\bin\Debug\CallBackEx.exe.config
+C:\Users\SIC\source\repos\CallBackEx\CallBackEx\bin\Debug\CallBackEx.exe
+C:\Users\SIC\source\repos\CallBackEx\CallBackEx\bin\Debug\CallBackEx.pdb
+C:\Users\SIC\source\repos\CallBackEx\CallBackEx\obj\Debug\CallBackEx.csproj.AssemblyReference.cache
+C:\Users\SIC\source\repos\CallBackEx\CallBackEx\obj\Debug\CallBackEx.fInnerMain.resources
+C:\Users\SIC\source\repos\CallBackEx\CallBackEx\obj\Debug\CallBackEx.fInnerSub.resources
+C:\Users\SIC\source\repos\CallBackEx\CallBackEx\obj\Debug\CallBackEx.Properties.Resources.resources
+C:\Users\SIC\source\repos\CallBackEx\CallBackEx\obj\Debug\CallBackEx.csproj.GenerateResource.cache
+C:\Users\SIC\source\repos\CallBackEx\CallBackEx\obj\Debug\CallBackEx.csproj.CoreCompileInputs.cache
+C:\Users\SIC\source\repos\CallBackEx\CallBackEx\obj\Debug\CallBackEx.exe
+C:\Users\SIC\source\repos\CallBackEx\CallBackEx\obj\Debug\CallBackEx.pdb

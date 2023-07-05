@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A8673216-2A4B-4586-B236-23AAB61EA0B0}</ProjectGuid>
+    <ProjectGuid>{A94C5459-50D0-4597-9E42-8B11A1378F03}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>TitleUsingEx</RootNamespace>
-    <AssemblyName>TitleUsingEx</AssemblyName>
+    <RootNamespace>CallBackEx</RootNamespace>
+    <AssemblyName>CallBackEx</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,16 +46,36 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class\cClassCallBack.cs" />
+    <Compile Include="Class\cDelCallBack.cs" />
+    <Compile Include="Class\cInterCallBack.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form\fInnerMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fInnerMain.Designer.cs">
+      <DependentUpon>fInnerMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fInnerSub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fInnerSub.Designer.cs">
+      <DependentUpon>fInnerSub.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\iCallBack.cs" />
+    <Compile Include="Interface\iCommon.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Form\fInnerMain.resx">
+      <DependentUpon>fInnerMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fInnerSub.resx">
+      <DependentUpon>fInnerSub.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallBackEx", "CallBackEx\CallBackEx.csproj", "{A94C5459-50D0-4597-9E42-8B11A1378F03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A94C5459-50D0-4597-9E42-8B11A1378F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94C5459-50D0-4597-9E42-8B11A1378F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94C5459-50D0-4597-9E42-8B11A1378F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94C5459-50D0-4597-9E42-8B11A1378F03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {182DB50D-261F-4412-BDB7-48F79A3E8E3B}
+	EndGlobalSection
+EndGlobal
