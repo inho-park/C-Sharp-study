@@ -1,0 +1,11 @@
+C:\Users\SIC\source\repos\DataTableEx\DataTableEx\bin\Debug\DataTableEx.exe.config
+C:\Users\SIC\source\repos\DataTableEx\DataTableEx\bin\Debug\DataTableEx.exe
+C:\Users\SIC\source\repos\DataTableEx\DataTableEx\bin\Debug\DataTableEx.pdb
+C:\Users\SIC\source\repos\DataTableEx\DataTableEx\obj\Debug\DataTableEx.csproj.AssemblyReference.cache
+C:\Users\SIC\source\repos\DataTableEx\DataTableEx\obj\Debug\DataTableEx.Form1.resources
+C:\Users\SIC\source\repos\DataTableEx\DataTableEx\obj\Debug\DataTableEx.Properties.Resources.resources
+C:\Users\SIC\source\repos\DataTableEx\DataTableEx\obj\Debug\DataTableEx.csproj.GenerateResource.cache
+C:\Users\SIC\source\repos\DataTableEx\DataTableEx\obj\Debug\DataTableEx.csproj.CoreCompileInputs.cache
+C:\Users\SIC\source\repos\DataTableEx\DataTableEx\obj\Debug\DataTableEx.exe
+C:\Users\SIC\source\repos\DataTableEx\DataTableEx\obj\Debug\DataTableEx.pdb
+C:\Users\SIC\source\repos\DataTableEx\DataTableEx\obj\Debug\DataTableEx.FormModify.resources

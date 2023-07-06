@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             this.pMain = new System.Windows.Forms.Panel();
-            this.lboxList = new System.Windows.Forms.ListBox();
             this.ucInfo3 = new _29_UserControl.UCInfo();
             this.ucInfo2 = new _29_UserControl.UCInfo();
             this.ucInfo1 = new _29_UserControl.UCInfo();
+            this.lboxList = new System.Windows.Forms.ListBox();
             this.pMain.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -46,15 +46,6 @@
             this.pMain.Name = "pMain";
             this.pMain.Size = new System.Drawing.Size(630, 205);
             this.pMain.TabIndex = 0;
-            // 
-            // lboxList
-            // 
-            this.lboxList.FormattingEnabled = true;
-            this.lboxList.ItemHeight = 12;
-            this.lboxList.Location = new System.Drawing.Point(12, 223);
-            this.lboxList.Name = "lboxList";
-            this.lboxList.Size = new System.Drawing.Size(630, 136);
-            this.lboxList.TabIndex = 1;
             // 
             // ucInfo3
             // 
@@ -91,6 +82,15 @@
             this.ucInfo1.UserGold = "2천만원";
             this.ucInfo1.UserName = "홍길동";
             this.ucInfo1.UserNo = "1";
+            // 
+            // lboxList
+            // 
+            this.lboxList.FormattingEnabled = true;
+            this.lboxList.ItemHeight = 12;
+            this.lboxList.Location = new System.Drawing.Point(12, 223);
+            this.lboxList.Name = "lboxList";
+            this.lboxList.Size = new System.Drawing.Size(630, 136);
+            this.lboxList.TabIndex = 1;
             // 
             // Form1
             // 

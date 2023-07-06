@@ -60,7 +60,7 @@ namespace _26_Thread
                 lPlay.Add(pl);
             }
 
-           
+        
         }
 
         private int Pl_eventdelMessage(object sender, string strResult)
