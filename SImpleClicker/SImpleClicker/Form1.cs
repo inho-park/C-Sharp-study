@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading;
@@ -13,14 +14,18 @@ namespace SImpleClicker
 {
     public partial class Form1 : Form
     {
+        Dictionary<string, string> _dData = new Dictionary<string, string>();
+        CXMLControl _xml = new CXMLControl();
+        string strPath = Application.StartupPath + "\\Save.xml";
+
         private double tick = 0;
         private double total = 0;
 
         private int add1 = 1;
         private int level1 = 1;
 
-        private int add5 = 0;
-        private int level5 = 0;
+        private int add3 = 0;
+        private int level3 = 0;
 
         private int add50 = 0;
         private int level50 = 0;
@@ -31,6 +36,17 @@ namespace SImpleClicker
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            if (File.Exists(strPath))
+            {
+                _dData = _xml.fxmlReader(strPath);
+
+                tick = double.Parse(_dData[CXMLControl._TICK]);
+                total = double.Parse(_dData[CXMLControl._TOTAL]);
+                level1 = int.Parse(_dData[CXMLControl._LEVEL_1]);
+                level3 = int.Parse(_dData[CXMLControl._LEVEL_3]);
+                level50 = int.Parse(_dData[CXMLControl._LEVEL_50]);
+            }
+
             // Timer : UI Timer 이기 때문에 바로 사용 가능 Threading, Timers 의 TImer 같은 경우 
             // 직접 호출이 안되고 Invoke 대리자를 통해 호출
             // 별도의 Thread 를 사용하지 않고 Form  자체의 Single Thread 를 사용, 시간에 맞춰서 함수만 호출해 주는 역할을 하기 때문에
@@ -61,9 +77,9 @@ namespace SImpleClicker
             //{
             //    Thread.Sleep(1000);
             //}
-            tick = add1 + add5 + add50;
+            tick = add1 + add3 + add50;
             total += tick;
-            lblPoint.Text = string.Format("{0} (1 : {1}),   (5 : {2}),   (50 : {3})", tick.ToString(), level1.ToString(), level5.ToString(), level50.ToString());
+            lblPoint.Text = string.Format("{0} (1 : {1}),   (3 : {2}),   (50 : {3})", tick.ToString(), level1.ToString(), level3.ToString(), level50.ToString());
             lblTotal.Text = total.ToString();
         }
 
@@ -84,8 +100,8 @@ namespace SImpleClicker
                     if (total >= 500)
                     {
                         total -= 500;
-                        level5++;
-                        add5 += 5 * level5;
+                        level3++;
+                        add3 += 3 * level3;
                     }
                     break;
                 case "50":
@@ -97,6 +113,18 @@ namespace SImpleClicker
                     }
                     break;
             }
+        }
+
+        private void Form1_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            _dData.Clear();
+            _dData.Add(CXMLControl._TICK, tick.ToString());
+            _dData.Add(CXMLControl._TOTAL, total.ToString());
+            _dData.Add(CXMLControl._LEVEL_1, level1.ToString());
+            _dData.Add(CXMLControl._LEVEL_3, level3.ToString());
+            _dData.Add(CXMLControl._LEVEL_50, level50.ToString());
+
+            _xml.fxmlWriter(strPath, _dData);
         }
     }
 }

@@ -30,9 +30,9 @@ namespace SImpleClicker
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.lblPoint = new System.Windows.Forms.Label();
             this.lblTotal = new System.Windows.Forms.Label();
+            this.lblPoint = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -54,14 +54,15 @@ namespace SImpleClicker
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "점수";
             // 
-            // label1
+            // lblTotal
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(6, 17);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(73, 12);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Tick Point : ";
+            this.lblTotal.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.lblTotal.Location = new System.Drawing.Point(6, 45);
+            this.lblTotal.Name = "lblTotal";
+            this.lblTotal.Size = new System.Drawing.Size(344, 91);
+            this.lblTotal.TabIndex = 3;
+            this.lblTotal.Text = "0";
+            this.lblTotal.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblPoint
             // 
@@ -73,15 +74,14 @@ namespace SImpleClicker
             this.lblPoint.Text = "0";
             this.lblPoint.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
-            // lblTotal
+            // label1
             // 
-            this.lblTotal.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.lblTotal.Location = new System.Drawing.Point(6, 45);
-            this.lblTotal.Name = "lblTotal";
-            this.lblTotal.Size = new System.Drawing.Size(344, 91);
-            this.lblTotal.TabIndex = 3;
-            this.lblTotal.Text = "0";
-            this.lblTotal.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(6, 17);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(73, 12);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "Tick Point : ";
             // 
             // button1
             // 
@@ -147,7 +147,7 @@ namespace SImpleClicker
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(380, 258);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -157,6 +157,7 @@ namespace SImpleClicker
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
